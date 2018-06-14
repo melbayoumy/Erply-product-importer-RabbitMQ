@@ -8,7 +8,8 @@ To work with the project you need to have a <strong>XAMP/WAMP/LAMP/MAMP</strong>
 <h3>Steps</h3>
 <ol>
 <li>Copy the content of this repository to a folder in your www folder.</li>
-<li>Run the script repositories/Consumer.php from the terminal of the OS you are working on.</li>
+<li>Run the (X)AMP server on your machine.</li>
+<li>Run the script repositories/Consumer.php from the terminal of the OS you are working on. (i.e. php repositories/Consumer.php)</li>
 <li>Now run the index.php file from your client browser as web app (i.e. http://localhost/Erply-product-importer-RabbitMQ/).</li>
 </ol> 
 
