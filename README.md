@@ -3,9 +3,9 @@
 
 <p>This app is using <a href="https://erply.com/api" target="_blank">ERPLY API</a> & <a href="https://github.com/php-amqplib/php-amqplib" target="_blank">RabbitMQ amqplib</a> library to serve as a product importer.
 
-To work with the project you need to have a <strong>XAMP/WAMP/LAMP/MAMP</strong> environment.</p>
+To work with this project you need to have a <strong>XAMP/WAMP/LAMP/MAMP</strong> environment.</p>
 
-<p><em><u>hint:</u> I didn't include all the parameters to be filled for a product. I just included some parameters just to prove the concept.</em></p>
+<p><em><u>hint:</u> I didn't include all the parameters to be filled for a product. I included some parameters just to prove the concept.</em></p>
 
 <h3>Steps</h3>
 <ol>
